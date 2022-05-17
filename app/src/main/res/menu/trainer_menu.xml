@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto">
+    <item
+        android:id="@+id/viewMyInfo"
+        android:title="Bilgilerimi görüntüle">
+    </item>
+    <item
+        android:id="@+id/logoutTrainer"
+        android:title="@string/logout">
+    </item>
+</menu>

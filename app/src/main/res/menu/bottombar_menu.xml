@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:android="http://schemas.android.com/apk/res/android">
+
+    <item
+        android:title="Ana Sayfa"
+        android:id="@+id/bottombar_home"
+        android:icon="@drawable/ic_home"/>
+
+    <item
+        android:title="Profil"
+        android:id="@+id/bottombar_account"
+        android:icon="@drawable/ic_account"/>
+
+    <item
+        android:title="Randevu Oluştur"
+        android:id="@+id/bottombar_appointment"
+        android:icon="@drawable/ic_appointment"/>
+    <item
+        android:title="Konum"
+        android:id="@+id/bottombar_location"
+        android:icon="@drawable/ic_location"/>
+
+    <item
+        android:title="Çıkış Yap"
+        android:id="@+id/bottombar_exit"
+        android:icon="@drawable/ic_exit"/>
+</menu>

@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "180340515655",
+    "project_id": "gymproject-363ae",
+    "storage_bucket": "gymproject-363ae.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:180340515655:android:5d94bd1440e17d25fda262",
+        "android_client_info": {
+          "package_name": "com.keremkulac.gym_v2"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "180340515655-9mr03bri8knvjoftnm3vhfnu0rr66nsg.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDX2RS3ftbBhdx-dNrcQyImb9kgxbRjeeY"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "180340515655-9mr03bri8knvjoftnm3vhfnu0rr66nsg.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

@@ -1,0 +1,51 @@
+<resources>
+    <string name="app_name">Gym_v2</string>
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="register_Email">Email</string>
+    <string name="register">Kayıt Ol</string>
+    <string name="email">Email</string>
+    <string name="password">Şifre</string>
+    <string name="loginRegister">KAYIT OL</string>
+    <string name="login">GİRİŞ YAP</string>
+    <string name="loginPassword">Şifre</string>
+    <string name="loginEmail">Email</string>
+    <string name="logout">Oturumu sonlandır</string>
+    <string name="location_page">Location Page</string>
+    <string name="appointment_page">Appointment Page</string>
+    <string name="createAppointment">Randevu Oluştur</string>
+    <string name="home">Ana Sayfa</string>
+    <string name="findLocation">Konum Bul</string>
+    <string name="textview">TextView</string>
+    <string name="title_activity_maps">MapsActivity</string>
+    <string name="textViewSelectTime">Lütfen çalışmak istediğiniz saati seçiniz</string>
+    <string name="buttonSelectTime">Saat seç</string>
+    <string name="buttonSelectCalendar">Tarih Seç</string>
+    <string name="appointmentTitle">KİŞİSEL EĞİTMENDEN RANDEVU AL</string>
+    <string name="textViewSelectTrainer">Lütfen çalışmak istediğiniz eğitmeni seçiniz</string>
+    <string name="textViewSelectCalendar">Lütfen çalışmak istediğiniz tarihi seçiniz</string>
+
+
+    <string name="name">Ad</string>
+    <string name="lastname">Soyad</string>
+    <string name="mail">Mail</string>
+    <string name="phoneNumber">Telefon</string>
+    <string name="registerDate">Kayıt tarihi</string>
+    <string name="title">Tür</string>
+    <string name="add_trainer">Eğitmen ekle</string>
+    <string name="incoming_appointment">GELEN RANDEVULAR</string>
+    <string-array name="names">
+        <item>Ali Taşçı</item>
+        <item>Ceren Kucuk</item>
+        <item>Mehmet Celebi</item>
+        <item></item>
+    </string-array>
+    <string name="title_activity_maps2">MapsActivity2</string>
+    <string name="users">KULLANICILAR</string>
+    <string name="welcome">Hoş geldiniz</string>
+    <string name="my_info">BİLGİLERİM</string>
+    <string name="update_password">Şifrenizi değiştirirmek için tıklayınız</string>
+    <string name="update_my_info">Kişisel bilgileri güncelle</string>
+    <string name="add_photo">Fotoğraf Ekle</string>
+    <string name="view_my_info">BİLGİLERİMİ GÖRÜNTÜLE</string>
+</resources>
